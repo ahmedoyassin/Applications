@@ -1,0 +1,5 @@
+APP.c:31:6:Task_Init	16	static
+APP.c:58:6:Task_manager	32	static
+APP.c:114:6:Task_Action	32	static
+APP.c:183:6:Task_led	24	static
+APP.c:202:6:Task_LCD	24	static

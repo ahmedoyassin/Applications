@@ -1,0 +1,4 @@
+MRCC_prg.c:11:6:RCC_voidInitializeSystemClock	8	static
+MRCC_prg.c:91:6:RCC_voidResetPeripheral	16	static
+MRCC_prg.c:101:6:RCC_voidEnablePeripheralClock	16	static
+MRCC_prg.c:111:6:RCC_voidDisablePeripheralClock	16	static

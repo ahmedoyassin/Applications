@@ -1,0 +1,7 @@
+MGPIO_prg.c:12:6:Port_SetPinDirection	16	static
+MGPIO_prg.c:47:6:Port_SetPinMode	16	static
+MGPIO_prg.c:75:15:Dio_ReadChannel	24	static
+MGPIO_prg.c:117:6:Dio_WriteChannel	16	static
+MGPIO_prg.c:152:6:Dio_WritePort	16	static
+MGPIO_prg.c:180:6:Dio_GetVersionInfo	16	static
+MGPIO_prg.c:186:15:Dio_FlipChannel	24	static
